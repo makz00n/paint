@@ -1,0 +1,10 @@
+C:\Users\makson\source\repos\Инфа(курс 2)\paint\bin\Debug\paint.exe.config
+C:\Users\makson\source\repos\Инфа(курс 2)\paint\bin\Debug\paint.exe
+C:\Users\makson\source\repos\Инфа(курс 2)\paint\bin\Debug\paint.pdb
+C:\Users\makson\source\repos\Инфа(курс 2)\paint\obj\Debug\paint.csproj.AssemblyReference.cache
+C:\Users\makson\source\repos\Инфа(курс 2)\paint\obj\Debug\paint.Form1.resources
+C:\Users\makson\source\repos\Инфа(курс 2)\paint\obj\Debug\paint.Properties.Resources.resources
+C:\Users\makson\source\repos\Инфа(курс 2)\paint\obj\Debug\paint.csproj.GenerateResource.cache
+C:\Users\makson\source\repos\Инфа(курс 2)\paint\obj\Debug\paint.csproj.CoreCompileInputs.cache
+C:\Users\makson\source\repos\Инфа(курс 2)\paint\obj\Debug\paint.exe
+C:\Users\makson\source\repos\Инфа(курс 2)\paint\obj\Debug\paint.pdb
